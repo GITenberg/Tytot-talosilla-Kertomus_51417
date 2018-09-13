@@ -1,0 +1,33 @@
+_repo: Tytot-talosilla-Kertomus_51417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassila, Maiju
+    aliases:
+    - Rantamala, Irmari
+    - Untola, Algoth
+    - Vatanen, J. I.
+    - Tietavainen, Algoth
+    - Tietäväinen, Algoth
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '3754'
+    url: http://www.gutenberg.org/2009/agents/3754
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Algot_Untola
+    - http://www.kirjasto.sci.fi/lassila.htm
+description: ''
+gutenberg_issued: '2016-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51417'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Tytöt talosilla: Kertomus'
+url: http://www.gutenberg.org/ebooks/51417
