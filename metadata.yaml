@@ -1,5 +1,8 @@
 _repo: Tytot-talosilla-Kertomus_51417
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassila, Maiju
@@ -17,6 +20,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Algot_Untola
     - http://www.kirjasto.sci.fi/lassila.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51417#Tytot-talosilla-Kertomus
 gutenberg_issued: '2016-03-11'
 gutenberg_type: Text
 identifiers:
